@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=3SH5AQsHypA&t=209s
+EP 001 - Setting up environment variables for your React project
+29,935 views • Jan 12, 2019
+203+   -46      SHARE   SAVE
+
+JS Circle
+73 subscribers
+
+UPDATE - This video uses the version 8.0.2 of env-cmd. In newer versions you have to add the -e flag to make this configuration work. (example:In your package.json, env-cmd -e development react-scripts start)
+
+Hi, In this video you will learn how to add environment variables to your React project under different environments such as development, QA and production.
+
+If you have any questions, let me know in the comments below :)
+
+Required node modules
+
+env-cmd - https://www.npmjs.com/package/env-cmd
