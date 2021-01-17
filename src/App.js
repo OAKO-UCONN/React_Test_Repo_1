@@ -20,6 +20,8 @@ function App() {
           Learn React
         </a>
         <h1>TEST</h1>
+        <h1>{REACT_APP_TEST_TEXT}</h1>
+        <h1>{REACT_APP_TEST_TEXT1}</h1>
       </header>
     </div>
   );
