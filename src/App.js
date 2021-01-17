@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+const {REACT_APP_TEST_TEXT, REACT_APP_TEST_TEXT1} = process.env;
+
 function App() {
   return (
     <div className="App">
@@ -17,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>TEST</h1>
       </header>
     </div>
   );
